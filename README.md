@@ -13,17 +13,20 @@ ______
 Selecting User Story 1 : Lululemon
 
     1. user navigates to https://shop.lululemon.com/ using browser search
-    2. user selects **women** from website menu across top of the screen
-    3. user navigates through the drop down menu - moving from **women** to **womens clothes** to _leggings_
+    2. user selects Women Tab from website menu across top of the screen
+    3. user navigates through the drop down menu - moving from Women Tab to Clothing Tab to Leggings Tab
     4. user is now able to browse leggings and selects a pair
     5. user selects color choice
     6. user selects size
-    7. user selects _add to cart_
+    7. user selects Add to Cart
     8. user is immediately taken to pop up window where they confirm purchase and checkout (option given to continue shopping)
     9. user enters contact information, billing & shipping address, credit card info/paypal
-    10. user is approved for purchase and recieves emailed recipet of purchase
+    10. user selects Finalize Purchase
+    11. user is approved for purchase and receives emailed receipt of purchase
 
 _______
+
+
 
 
 
