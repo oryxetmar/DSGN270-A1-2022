@@ -27,6 +27,9 @@ Selecting User Story 1 : Lululemon
 _______
 # Wireframe - Lululemon
 
+<img width="888" alt="wireframe-dsgn270-lululemon" src="https://user-images.githubusercontent.com/97468502/150631347-24cf21d1-ecf6-4b9c-a158-969feff42bfd.png">
+
+
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2Fg40IBmy8zsDGAz5rsx0Vyn%2FDSGN270-A1-2022%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
 
 https://www.figma.com/file/g40IBmy8zsDGAz5rsx0Vyn/DSGN270-A1-2022?node-id=0%3A1
